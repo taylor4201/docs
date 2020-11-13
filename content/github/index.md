@@ -1,5 +1,5 @@
 ---
-title: GitHub.com
+title: z
 redirect_from:
   - /articles/
   - /common-issues-and-questions/
